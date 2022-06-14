@@ -1,7 +1,7 @@
 ﻿{
   "Routes": [
     {
-      "DownstreamPathTemplate": "/products",
+      "DownstreamPathTemplate": "/api/products",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -13,7 +13,7 @@
       "UpstreamHttpMethod": [ "Get", "Post" ]
     },
     {
-      "DownstreamPathTemplate": "/orders",
+      "DownstreamPathTemplate": "/api/orders",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -25,7 +25,7 @@
       "UpstreamHttpMethod": [ "Get", "Post" ]
     },
     {
-      "DownstreamPathTemplate": "/products/{id}",
+      "DownstreamPathTemplate": "/api/products/{id}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -37,7 +37,7 @@
       "UpstreamHttpMethod": [ "Get", "Post" ]
     },
     {
-      "DownstreamPathTemplate": "/orders/{id}",
+      "DownstreamPathTemplate": "/api/orders/{id}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {

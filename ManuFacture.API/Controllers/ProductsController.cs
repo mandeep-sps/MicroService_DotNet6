@@ -27,8 +27,26 @@ namespace ManuFacture.API.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAsync()
         {
-            var products = await _manufactureContext.Products.AsNoTracking().ToListAsync();
-            return Ok(products);
+            Products obj1 = new Products();
+            Products obj2 = new Products();
+            obj1.Id = 1;
+            obj1.Name = "Test";
+            obj1.Cost = 100;
+            obj1.Description = "Microservices using ASP.NET Core";
+
+            obj2.Id = 2;
+            obj2.Name = "Test1223";
+            obj2.Cost = 345;
+            obj2.Description = "In this article, I am going to explain Microservices using ASP.NET Core Application with Examples. At the end of this article, you will understand the following pointers.";
+
+            List<Products> List = new List<Products>
+            {
+                obj1,
+                obj2
+
+            };
+            //var products = await _manufactureContext.Products.AsNoTracking().ToListAsync();
+            return Ok(List);
         }
 
         [HttpGet]
