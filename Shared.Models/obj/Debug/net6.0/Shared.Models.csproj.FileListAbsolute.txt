@@ -1,0 +1,12 @@
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\bin\Debug\net6.0\Shared.Models.deps.json
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\bin\Debug\net6.0\Shared.Models.dll
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\bin\Debug\net6.0\Shared.Models.pdb
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\Shared.Models.csproj.AssemblyReference.cache
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\Shared.Models.AssemblyInfoInputs.cache
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\Shared.Models.AssemblyInfo.cs
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\Shared.Models.dll
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\refint\Shared.Models.dll
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\Shared.Models.pdb
+D:\Mandeep Projects\MicroService_DotNetCore\Shared.Models\obj\Debug\net6.0\ref\Shared.Models.dll
